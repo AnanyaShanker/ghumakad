@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "118298351419",
+    "project_id": "ghumakkad-3f7f7",
+    "storage_bucket": "ghumakkad-3f7f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118298351419:android:fb68b42fd7eef18f09c91e",
+        "android_client_info": {
+          "package_name": "com.example.ghumakad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDr_CyiYeSY2Gqh48aVuGJkdRN9_xsAWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
